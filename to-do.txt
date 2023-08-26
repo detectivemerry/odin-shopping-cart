@@ -1,0 +1,30 @@
+main.jsx
+- Implement react router
+
+App 
+- homepage
+    - Footer, Body components
+    - test
+    - style
+- create custom hook for the fetch
+
+Navbar
+- implement router logic
+- test
+- style
+
+Products page
+- search
+    - test
+- Card component
+    - test
+    - style
+- test
+- style
+
+Product detail page
+- test
+
+Cart page
+- test
+- style
